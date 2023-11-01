@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "files.exclude": {
+        "**/.git": true ,
+        "**/.venv": true
+    }
+}
