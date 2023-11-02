@@ -4,10 +4,12 @@
 
 :cat:
 :dog:
-
+![Postman](https://stepik.org/cert/2213783?lang=en)
 
 ![codewars](https://www.codewars.com/users/VitGT/badges/large)
+![codewars](https://www.codewars.com/users/VitGT/badges/micro)
 
+https://www.codewars.com/users/VitGT/badges/micro
 ### My contacts:
 <div id="badges">
   <a href="https://t.me/vitclub">
