@@ -32,8 +32,40 @@ insert spaces = True
 "cSpell.language": "en,ru",
 
 
-**Плагины:**
+автоактивация venv (не работает?)
+Activate Env In Current Terminal = true
+
+
+### Плагины:
 
 Python (Microsoft)
 
 Material Icon Theme
+
+
+### Установка виртуального окружения:
+```bash
+python3 -m venv .venv
+```
+Тоже самое , но с обновлением pip
+```
+python3 -m venv .venv --upgrade-deps
+```
+
+### Активация виртуального окружения (перед началом работы в VS CODE):
+```bash
+source .venv/bin/activate
+```
+Деактивация
+```bash
+deactivate
+```
+
+### Сохранение зависимостей в файл
+```bash
+pip freeze > requirements.txt
+```
+
+```bash
+pip install -r .\requirements.txt
+```
