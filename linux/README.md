@@ -41,3 +41,5 @@ wget -r -l <глубина> <ссылка>
 ```
 wget -r -A <тип,тип,...,тип> <ссылка>
 ```
+[Wiki wget](https://ru.wikipedia.org/wiki/Wget)
+
