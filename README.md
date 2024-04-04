@@ -30,10 +30,10 @@ About me
 *   [TypeScript/Playwright for UI-tests](https://github.com/VitGT73/ts_tensor) - The example demonstrates the use of TypeScript and Playwright to perform ***UI-tests***. You can run tests locally by cloning the repository on your computer. Allure-report is used to display the report.
 *   [TypeScript/Playwright for API tests](https://github.com/VitGT73/pw_api) - The example demonstrates the use of TypeScript and Playwright to perform ***API-tests***. You can run tests locally by cloning the repository on your computer. HTML-report is used to display the report.
 
-### My certificates
-
 <!-- сертификаты -->
+<!-- сертификаты
 
+### My certificates
 <div align="center" style="margin: 20px 0px;">
   <style>
     .certificate-img {
@@ -71,6 +71,10 @@ About me
     </a>
   </div>
 </div>
+
+-->
+
+
 
 <!-- Статистика по используемым языкам программирования -->
 
