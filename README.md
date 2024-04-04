@@ -33,11 +33,6 @@ About me
 ### My certificates
 
 <!-- сертификаты -->
-[Postman](https://stepik.org/cert/2213783?lang=en)
-[Docker](https://stepik.org/cert/2167949?lang=en)
-[Python](https://stepik.org/cert/2134325?lang=en)
-[Python Advanced](https://stepik.org/cert/2155031?lang=en)
-https://stepik.org/cert/2335154
 
 <div align="center" style="margin: 20px 0px;">
   <style>
